@@ -1,3 +1,5 @@
+// Hometask 1.6 - Console application Russia time format
+
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
